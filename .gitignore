@@ -1,0 +1,8 @@
+# IDE Config
+.idea/
+
+# Build
+build/
+
+# Dependencies
+node_modules/

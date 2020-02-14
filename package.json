@@ -1,0 +1,42 @@
+{
+  "name": "digidi",
+  "version": "1.0.0",
+  "description": "Blockchain Summer School 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cd client && npm install",
+    "start": "cd client && npm start"
+  },
+  "author": [
+    {
+      "name": "Christian Handest",
+      "email": "lzp959@alumni.ku.dk"
+    },
+    {
+      "name": "Dominique Chancelier",
+      "email": "jnm450@alumni.ku.dk"
+    },
+    {
+      "name": "Niclas Kannengießer",
+      "email": "niclas.kannengiesser@kit.edu"
+    },
+    {
+      "name": "Rasmus",
+      "email": "m@mail.dk"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.3.0",
+    "big-integer": "^1.6.44",
+    "bootstrap": "^4.3.1",
+    "chai": "^4.2.0",
+    "chai-bn": "^0.1.1",
+    "drizzle": "^1.4.0",
+    "ganache": "^6.4.4",
+    "react-bootstrap": "^1.0.0-beta.11",
+    "react-router-dom": "^5.0.1",
+    "truffle": "^5.0.31"
+  }
+}
