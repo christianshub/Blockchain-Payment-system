@@ -1,13 +1,5 @@
 ## Getting started
-### Prerequisites
 
-(What things you need to install the software and how to install them)
-
-### Installing
-
-(something here on how to get a development env running)
-
-### Testing
 Start ganache and execute the following command in the root directory of your project
 
     truffle migrate --reset
