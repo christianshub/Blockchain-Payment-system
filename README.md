@@ -1,3 +1,7 @@
+## About
+
+This is a PoC on how a blockchain payment system could be implemented.
+
 ## Getting started
 
 Start ganache and execute the following command in the root directory of your project
