@@ -37,6 +37,6 @@
     "ganache": "^6.4.4",
     "react-bootstrap": "^1.0.0-beta.11",
     "react-router-dom": "^5.0.1",
-    "truffle": "^5.0.31"
+    "truffle": "^5.7.9"
   }
 }
